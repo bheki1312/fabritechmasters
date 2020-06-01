@@ -1,4 +1,5 @@
 <?php
+set_time_limit(300);
 /**
  * The base configuration for WordPress
  *
